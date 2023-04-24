@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "20230420BilVaerksted/1.0.0": {
+        "runtime": {
+          "20230420BilVaerksted.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "20230420BilVaerksted/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

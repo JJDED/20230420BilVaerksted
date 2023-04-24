@@ -1,0 +1,15 @@
+C:\Users\Jamie\source\repos\20230420BilVaerksted\20230420BilVaerksted\bin\Debug\net7.0\20230420BilVaerksted.exe
+C:\Users\Jamie\source\repos\20230420BilVaerksted\20230420BilVaerksted\bin\Debug\net7.0\20230420BilVaerksted.deps.json
+C:\Users\Jamie\source\repos\20230420BilVaerksted\20230420BilVaerksted\bin\Debug\net7.0\20230420BilVaerksted.runtimeconfig.json
+C:\Users\Jamie\source\repos\20230420BilVaerksted\20230420BilVaerksted\bin\Debug\net7.0\20230420BilVaerksted.dll
+C:\Users\Jamie\source\repos\20230420BilVaerksted\20230420BilVaerksted\bin\Debug\net7.0\20230420BilVaerksted.pdb
+C:\Users\Jamie\source\repos\20230420BilVaerksted\20230420BilVaerksted\obj\Debug\net7.0\20230420BilVaerksted.csproj.AssemblyReference.cache
+C:\Users\Jamie\source\repos\20230420BilVaerksted\20230420BilVaerksted\obj\Debug\net7.0\20230420BilVaerksted.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jamie\source\repos\20230420BilVaerksted\20230420BilVaerksted\obj\Debug\net7.0\20230420BilVaerksted.AssemblyInfoInputs.cache
+C:\Users\Jamie\source\repos\20230420BilVaerksted\20230420BilVaerksted\obj\Debug\net7.0\20230420BilVaerksted.AssemblyInfo.cs
+C:\Users\Jamie\source\repos\20230420BilVaerksted\20230420BilVaerksted\obj\Debug\net7.0\20230420BilVaerksted.csproj.CoreCompileInputs.cache
+C:\Users\Jamie\source\repos\20230420BilVaerksted\20230420BilVaerksted\obj\Debug\net7.0\20230420BilVaerksted.dll
+C:\Users\Jamie\source\repos\20230420BilVaerksted\20230420BilVaerksted\obj\Debug\net7.0\refint\20230420BilVaerksted.dll
+C:\Users\Jamie\source\repos\20230420BilVaerksted\20230420BilVaerksted\obj\Debug\net7.0\20230420BilVaerksted.pdb
+C:\Users\Jamie\source\repos\20230420BilVaerksted\20230420BilVaerksted\obj\Debug\net7.0\20230420BilVaerksted.genruntimeconfig.cache
+C:\Users\Jamie\source\repos\20230420BilVaerksted\20230420BilVaerksted\obj\Debug\net7.0\ref\20230420BilVaerksted.dll
